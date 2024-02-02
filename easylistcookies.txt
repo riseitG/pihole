@@ -1,139 +1,139 @@
-analytics-consent-manager.azureedge.net
-cc.anytrack.de
-ccpa-script.psg.nexstardigital.net
-ccpa.sp-prod.net
-cmp.gemius.com
-cmp.setupcmp.com
-cmp.sibbo.net
-consent.dadoslegais.com
-consent.digiapi.com
-consent.prointernet.com
-cookie.consents.app
-cookie.pearshealthcyber.com
-cookieapi.incomit.dk
-cookieapi2.incomit.dk
-cookiemanager.onm.de
-cookies.innershed.co.uk
-cookiesregister.deltacommerce.com
-crta.and.co.uk
-d2eucw4fxv7nil.cloudfront.net
-gdpr-settings.s3.amazonaws.com
-gdpr.studybreakmedia.com
-macaron-cookie-data.decms.eu
-messaging.sourcepoint.com
-optanon.blob.core.windows.net
-plugin.management
-privacy-cdn.sixfifty.com
-privacy.digimedia.com
-privacy.wum.rocks
-ressource.gdpr-banner.awsmpsa.com
-smarteucookiebanner.upsell-apps.com
-truyoproductionuscdn.truyo.com
-webcache-eu.datareporter.eu
-webcache.datareporter.eu
-widgets.openli.com
-banner.cookiescan.com
-cb-mms.carbuyer.co.uk
-cdn259.talksport.com
-cmp-static.nature.com
-cmp.cdn.thesun.co.uk
-cmp.cdn.thesun.ie
-cmp.courrierinternational.com
-cmp.finn.no
-cmp.graziadaily.co.uk
-cmp.huffingtonpost.fr
-cmp.infopro-digital.com
-cmp.lavie.fr
-cmp.lemonde.fr
-cmp.lepoint.fr
-cmp.netzwelt.de
-cmp.nouvelobs.com
-cmp.parkers.co.uk
-cmp.playpilot.com
-cmp.tech426.com
-cmp.tek.no
-cmp.telerama.fr
-cmp.uniconsent.com
-cmpv2.pcworld.com
-consent.23g.io
-consent.amateurphotographer.co.uk
-consent.canalboat.co.uk
-consent.nationalworld.com
-consent.pilotweb.aero
-consent.stuff.tv
-consent.thecountrysmallholder.com
-consent.thegreatoutdoorsmag.com
-cookie-consent.festo.com
-cookies.lmt.lv
-fuse.forbes.com
-gdpr-api.sharethis.com
-gdpr.internetbrands.com
-mms.cmpsky.com
-privacy.claytonhomes.com
-privacypolicy.trgr.be
-sm-sp.followfollow.com
-sourcepoint-mms.aetv.com
-sourcepoint-mms.history.com
-sourcepoint-mms.mylifetime.com
-sourcepoint.avclub.com
-sourcepoint.deadspin.com
-sourcepoint.dexerto.com
-sourcepoint.gizmodo.com
-sourcepoint.jalopnik.com
-sourcepoint.lifehacker.com
-sourcepoint.theonion.com
-sourcepoint.theroot.com
-sourcepoint.thetakeout.com
-vg247-p2.vg247.com
-vg247-uk.vg247.com
-9jdq2a.poco.de
-cc.diewebsitemacherei.de
-cc.labu24.de
-cc.mpa-web.de
-ccm1.dlr.de
-cmp.pcwelt.de
-cmp.tvspielfilm.de
-consent-wrapper.jameda.de
-consent.berliner-kurier.de
-consent.gutefrage.net
-consent.perry-rhodan.net
-consent.werner-mertz.de
-consent2.rheinische-anzeigenblaetter.de
-consenttool.haendlerbund.de
-cookies.ptj.de
-cookies.tanke-guenstig.de
-fc.vodafone.de
-up-cookiemon.wavecdn.net
-cmp.histoire-et-civilisations.com
-consent.prismamedia.com
-consentement.ouest-france.fr
-cookies.leadplace.fr
-privacy.footmercato.net
-cmp.vizus.cz
-consent.t-mobile.cz
-me9ddf.moebelix.cz
-cmp.deondernemer.nl
-cookie.vrt.be
-cookie.wieni.be
-cookies.jeugdjournaal.nl
-cookies.nos.nl
-cookies.ster.nl
-voorkeuren.tvgids.nl
-cmp.tori.fi
-cmp.soundis.gr
-cookie.aerostatonet.it
-cookies.gardena.net
-privacyportal.fatergroup.com
-cmp.impress.co.jp
-gdpr.api.bcdn.jp
-gdpr.laxd.com
-consensu.infor.pl
-cookie.gazeta.pl
-cookies.fakt.pl
-cookies.forbes.pl
-rodo.agora.pl
-zgody.infor.pl
-cookies.teraz.sk
-cookies.unidadeditorial.es
-privacy.schibsted.com
-consent.themeteocompany.com
+0.0.0.0 analytics-consent-manager.azureedge.net
+0.0.0.0 cc.anytrack.de
+0.0.0.0 ccpa-script.psg.nexstardigital.net
+0.0.0.0 ccpa.sp-prod.net
+0.0.0.0 cmp.gemius.com
+0.0.0.0 cmp.setupcmp.com
+0.0.0.0 cmp.sibbo.net
+0.0.0.0 consent.dadoslegais.com
+0.0.0.0 consent.digiapi.com
+0.0.0.0 consent.prointernet.com
+0.0.0.0 cookie.consents.app
+0.0.0.0 cookie.pearshealthcyber.com
+0.0.0.0 cookieapi.incomit.dk
+0.0.0.0 cookieapi2.incomit.dk
+0.0.0.0 cookiemanager.onm.de
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookiesregister.deltacommerce.com
+0.0.0.0 crta.and.co.uk
+0.0.0.0 d2eucw4fxv7nil.cloudfront.net
+0.0.0.0 gdpr-settings.s3.amazonaws.com
+0.0.0.0 gdpr.studybreakmedia.com
+0.0.0.0 macaron-cookie-data.decms.eu
+0.0.0.0 messaging.sourcepoint.com
+0.0.0.0 optanon.blob.core.windows.net
+0.0.0.0 plugin.management
+0.0.0.0 privacy-cdn.sixfifty.com
+0.0.0.0 privacy.digimedia.com
+0.0.0.0 privacy.wum.rocks
+0.0.0.0 ressource.gdpr-banner.awsmpsa.com
+0.0.0.0 smarteucookiebanner.upsell-apps.com
+0.0.0.0 truyoproductionuscdn.truyo.com
+0.0.0.0 webcache-eu.datareporter.eu
+0.0.0.0 webcache.datareporter.eu
+0.0.0.0 widgets.openli.com
+0.0.0.0 banner.cookiescan.com
+0.0.0.0 cb-mms.carbuyer.co.uk
+0.0.0.0 cdn259.talksport.com
+0.0.0.0 cmp-static.nature.com
+0.0.0.0 cmp.cdn.thesun.co.uk
+0.0.0.0 cmp.cdn.thesun.ie
+0.0.0.0 cmp.courrierinternational.com
+0.0.0.0 cmp.finn.no
+0.0.0.0 cmp.graziadaily.co.uk
+0.0.0.0 cmp.huffingtonpost.fr
+0.0.0.0 cmp.infopro-digital.com
+0.0.0.0 cmp.lavie.fr
+0.0.0.0 cmp.lemonde.fr
+0.0.0.0 cmp.lepoint.fr
+0.0.0.0 cmp.netzwelt.de
+0.0.0.0 cmp.nouvelobs.com
+0.0.0.0 cmp.parkers.co.uk
+0.0.0.0 cmp.playpilot.com
+0.0.0.0 cmp.tech426.com
+0.0.0.0 cmp.tek.no
+0.0.0.0 cmp.telerama.fr
+0.0.0.0 cmp.uniconsent.com
+0.0.0.0 cmpv2.pcworld.com
+0.0.0.0 consent.23g.io
+0.0.0.0 consent.amateurphotographer.co.uk
+0.0.0.0 consent.canalboat.co.uk
+0.0.0.0 consent.nationalworld.com
+0.0.0.0 consent.pilotweb.aero
+0.0.0.0 consent.stuff.tv
+0.0.0.0 consent.thecountrysmallholder.com
+0.0.0.0 consent.thegreatoutdoorsmag.com
+0.0.0.0 cookie-consent.festo.com
+0.0.0.0 cookies.lmt.lv
+0.0.0.0 fuse.forbes.com
+0.0.0.0 gdpr-api.sharethis.com
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 mms.cmpsky.com
+0.0.0.0 privacy.claytonhomes.com
+0.0.0.0 privacypolicy.trgr.be
+0.0.0.0 sm-sp.followfollow.com
+0.0.0.0 sourcepoint-mms.aetv.com
+0.0.0.0 sourcepoint-mms.history.com
+0.0.0.0 sourcepoint-mms.mylifetime.com
+0.0.0.0 sourcepoint.avclub.com
+0.0.0.0 sourcepoint.deadspin.com
+0.0.0.0 sourcepoint.dexerto.com
+0.0.0.0 sourcepoint.gizmodo.com
+0.0.0.0 sourcepoint.jalopnik.com
+0.0.0.0 sourcepoint.lifehacker.com
+0.0.0.0 sourcepoint.theonion.com
+0.0.0.0 sourcepoint.theroot.com
+0.0.0.0 sourcepoint.thetakeout.com
+0.0.0.0 vg247-p2.vg247.com
+0.0.0.0 vg247-uk.vg247.com
+0.0.0.0 9jdq2a.poco.de
+0.0.0.0 cc.diewebsitemacherei.de
+0.0.0.0 cc.labu24.de
+0.0.0.0 cc.mpa-web.de
+0.0.0.0 ccm1.dlr.de
+0.0.0.0 cmp.pcwelt.de
+0.0.0.0 cmp.tvspielfilm.de
+0.0.0.0 consent-wrapper.jameda.de
+0.0.0.0 consent.berliner-kurier.de
+0.0.0.0 consent.gutefrage.net
+0.0.0.0 consent.perry-rhodan.net
+0.0.0.0 consent.werner-mertz.de
+0.0.0.0 consent2.rheinische-anzeigenblaetter.de
+0.0.0.0 consenttool.haendlerbund.de
+0.0.0.0 cookies.ptj.de
+0.0.0.0 cookies.tanke-guenstig.de
+0.0.0.0 fc.vodafone.de
+0.0.0.0 up-cookiemon.wavecdn.net
+0.0.0.0 cmp.histoire-et-civilisations.com
+0.0.0.0 consent.prismamedia.com
+0.0.0.0 consentement.ouest-france.fr
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 privacy.footmercato.net
+0.0.0.0 cmp.vizus.cz
+0.0.0.0 consent.t-mobile.cz
+0.0.0.0 me9ddf.moebelix.cz
+0.0.0.0 cmp.deondernemer.nl
+0.0.0.0 cookie.vrt.be
+0.0.0.0 cookie.wieni.be
+0.0.0.0 cookies.jeugdjournaal.nl
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.ster.nl
+0.0.0.0 voorkeuren.tvgids.nl
+0.0.0.0 cmp.tori.fi
+0.0.0.0 cmp.soundis.gr
+0.0.0.0 cookie.aerostatonet.it
+0.0.0.0 cookies.gardena.net
+0.0.0.0 privacyportal.fatergroup.com
+0.0.0.0 cmp.impress.co.jp
+0.0.0.0 gdpr.api.bcdn.jp
+0.0.0.0 gdpr.laxd.com
+0.0.0.0 consensu.infor.pl
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 rodo.agora.pl
+0.0.0.0 zgody.infor.pl
+0.0.0.0 cookies.teraz.sk
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 consent.themeteocompany.com
